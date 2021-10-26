@@ -17,5 +17,6 @@ function betterThanAverage(classPoints, yourPoints) {
 
 let allPoints = [90, 40, 34, 57, 29, 72, 57, 88];
 let MyPoint = 10;
+
 let result = betterThanAverage(allPoints,MyPoint);
 console.log(result);
