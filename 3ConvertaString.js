@@ -1,4 +1,8 @@
+var string = '234'
+
+
 var stringToNumber = function(str){
-    var num = Number(str);
-  return num;
+    return Number(str);
 }
+
+console.log( stringToNumber(string) )
