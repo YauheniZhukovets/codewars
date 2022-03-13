@@ -1,5 +1,6 @@
 function wrap(value) {
-    return {
+    return
+    {
         value:value
     };
 }
